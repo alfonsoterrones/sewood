@@ -1,0 +1,633 @@
+/* ------------------------------------------------------IPHONE------------------------------------------------------- */
+/* ----------- iPhone X ----------- */
+
+/* Portrait */
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+  .top-content .carousel-caption h1 {
+    padding-top: 0px;
+    color: #0078ae;
+    font-weight: bold;
+}
+
+  .header-buscador-position {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    display: inline-grid;
+  }
+
+  .form-inline {
+    display: inline-grid;
+  }
+
+  .top-content .carousel-item2 {
+    height: 57vh;
+    min-height: 327px;
+  }
+
+  .footer-top {
+    padding: 27px 0;
+    background: url(../img/pexels-jéshoots-4998.jpg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    color: #ffffff;
+  }
+
+  .footer-copyright {
+    padding-top: 5px;
+    text-align: center;
+  }
+
+  .imput-header-defunciones {
+    width: 100%;
+}
+
+.buscar-defunciones {
+  width: 92%;
+  margin: auto;
+}
+
+#inputPassword2 {
+  width: 92% !important;
+  height: calc(2em + .75rem + 2px);
+  margin: auto;
+}
+
+.top-content .carousel-caption h1.title-difunciones-recientes {
+  padding-top: 0px;
+}
+
+.display-none-table{
+  display: none;
+}
+
+.boton-enviar-flores {
+  font-size: 9px;
+}
+
+.table-text-options {
+  font-size: 11px;
+}
+
+.from-filter-style {
+  position: relative;
+  left: 0;
+  width: 100%;
+}
+
+.filter-mobile-style {
+  display: grid;
+  margin-top: 5%;
+}
+
+.card-servicios-mobile{
+  width: 100%;
+}
+
+.imput-flores {
+  width: 100%;
+}
+
+.form-inline{
+  width: 100%;
+}
+
+.video-servicios-flores {
+  width: 236%;
+  top: 0%;
+}
+
+article{
+  display: grid;
+}
+
+section{
+  width: 100%;
+  text-align: left;
+}
+section:nth-child(1){
+  order: 2;
+}
+
+section:nth-child(2){
+  order: 1;
+}
+
+.call-to-action-text {
+  padding-bottom: 53px;
+}
+
+.btn.btn-info {
+  margin: 1%;
+}
+
+.carousel-inner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  height: 26vh;
+}
+.home2-section-width{
+  width: 100%;
+}
+
+.home2-section-width-text{
+  position: relative;
+  top: 0%;
+}
+
+.section-home-1{
+  width: 100%;
+}
+
+.btn.btn-secondary.header-bottom-size.boton-enviar-flores{
+  font-size: 10px !important;
+}
+
+.table td, .table th {
+  padding: 0.25rem !important;
+}
+
+.form-control2 {
+  width: 92%;
+  margin: auto;
+}
+}
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+/* Portrait */
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+  .top-content .carousel-caption h1 {
+    padding-top: 0px;
+    color: #0078ae;
+    font-weight: bold;
+}
+
+  .header-buscador-position {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    display: inline-grid;
+  }
+
+  .form-inline {
+    display: inline-grid;
+  }
+
+  .top-content .carousel-item2 {
+    height: 57vh;
+    min-height: 327px;
+  }
+
+  .footer-top {
+    padding: 27px 0;
+    background: url(../img/pexels-jéshoots-4998.jpg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    color: #ffffff;
+  }
+
+  .footer-copyright {
+    padding-top: 5px;
+    text-align: center;
+  }
+
+  .imput-header-defunciones {
+    width: 100%;
+}
+
+.buscar-defunciones {
+  width: 92%;
+  margin: auto;
+}
+
+#inputPassword2 {
+  width: 92% !important;
+  height: calc(2em + .75rem + 2px);
+  margin: auto;
+}
+
+.top-content .carousel-caption h1.title-difunciones-recientes {
+  padding-top: 0px;
+}
+
+.display-none-table{
+  display: none;
+}
+
+.boton-enviar-flores {
+  font-size: 9px;
+}
+
+.table-text-options {
+  font-size: 11px;
+}
+
+.from-filter-style {
+  position: relative;
+  left: 0;
+  width: 100%;
+}
+
+.filter-mobile-style {
+  display: grid;
+  margin-top: 5%;
+}
+
+.imput-flores {
+  width: 100%;
+}
+
+.form-inline{
+  width: 100%;
+}
+
+.video-servicios-flores {
+  width: 236%;
+  top: 0%;
+}
+
+article{
+  display: grid;
+}
+
+section{
+  width: 100%;
+  text-align: left;
+}
+section:nth-child(1){
+  order: 2;
+}
+
+section:nth-child(2){
+  order: 1;
+}
+
+.call-to-action-text {
+  padding-bottom: 53px;
+}
+
+.btn.btn-info {
+  margin: 1%;
+}
+
+.carousel-inner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  height: 26vh;
+}
+
+.section-home-1{
+  width: 100%;
+}
+
+.btn.btn-secondary.header-bottom-size.boton-enviar-flores{
+  font-size: 10px !important;
+}
+.table td, .table th {
+  padding: 0.25rem !important;
+}
+
+.form-control2 {
+  width: 92%;
+  margin: auto;
+}
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait */
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .top-content .carousel-caption h1 {
+    padding-top: 0px;
+    color: #0078ae;
+    font-weight: bold;
+}
+
+  .header-buscador-position {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    display: inline-grid;
+  }
+
+  .form-inline {
+    display: inline-grid;
+  }
+
+  .top-content .carousel-item2 {
+    height: 63vh;    min-height: 327px;
+  }
+
+  .footer-top {
+    padding: 27px 0;
+    background: url(../img/pexels-jéshoots-4998.jpg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    color: #ffffff;
+  }
+
+  .footer-copyright {
+    padding-top: 5px;
+    text-align: center;
+  }
+
+  .imput-header-defunciones {
+    width: 100%;
+}
+
+.buscar-defunciones {
+  width: 92%;
+  margin: auto;
+}
+
+#inputPassword2 {
+  width: 92% !important;
+  height: calc(2em + .75rem + 2px);
+  margin: auto;
+}
+
+.top-content .carousel-caption h1.title-difunciones-recientes {
+  padding-top: 0px;
+}
+
+.display-none-table{
+  display: none;
+}
+
+.boton-enviar-flores {
+  font-size: 9px;
+}
+
+.table-text-options {
+  font-size: 11px;
+}
+
+.from-filter-style {
+  position: relative;
+  left: 0;
+  width: 100%;
+}
+
+.filter-mobile-style {
+  display: grid;
+  margin-top: 5%;
+}
+
+.imput-flores {
+  width: 100%;
+}
+
+.video-servicios-flores {
+  width: 236%;
+  top: 0%;
+}
+article{
+  display: grid;
+}
+
+section{
+  width: 100%;
+  text-align: left;
+}
+section:nth-child(1){
+  order: 2;
+}
+
+section:nth-child(2){
+  order: 1;
+}
+
+.call-to-action-text {
+  padding-bottom: 53px;
+}
+
+.btn.btn-info {
+  margin: 1%;
+}
+
+.carousel-inner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  height: 26vh;
+}
+
+.section-home-1{
+  width: 100%;
+}
+
+.btn.btn-secondary.header-bottom-size.boton-enviar-flores{
+  font-size: 10px !important;
+}
+
+.table td, .table th {
+  padding: 0.25rem !important;
+}
+
+.form-control2 {
+  width: 92%;
+  margin: auto;
+}
+}
+
+/* ------------------------------------------------------IPAD------------------------------------------------------- */
+
+/* ----------- iPad 1, 2, Mini and Air ----------- */
+
+/* Portrait */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+    .top-content .carousel-item {
+        height: 81vh;
+        min-height: 400px;
+    }
+
+    .header-bottom-size {
+        font-size: 9px;
+        margin: 0.5em;
+    }
+
+    .navbar-dark .navbar-nav {
+        font-size: 9px;
+        color: #fff;
+        line-height: 14px;
+        text-transform: uppercase;
+    }
+
+    .navbar-brand {
+        width: 90px;
+        background: url(../img/logo_altima.svg) left center no-repeat;
+        border: 0;
+        text-indent: -99999px;
+    }
+
+    .carousel-item {
+        height: 39vh !important;
+        min-height: 400px;
+    }
+
+    .header-buscador-position {
+        position: absolute;
+        left: 27.5%;
+    }
+
+    .table-text-options {
+        font-size: 11px;
+        text-align: left;
+        line-height: 14px;
+    }
+
+    .form-inline {
+        display: grid;
+    }
+
+    .top-content .carousel-caption h1 {
+        padding-top: 0;
+        color: #fff;
+    }
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
+    .header-bottom-size {
+        font-size: 10px;
+        margin: 0.1em;
+    }
+
+    .navbar-dark .navbar-nav {
+        font-size: 10px;
+        color: #fff;
+        text-transform: uppercase;
+    }
+
+    .navbar-brand {
+        width: 90px;
+        background: url(../img/logo_altima.svg) left center no-repeat;
+        border: 0;
+        text-indent: -99999px;
+    }
+
+    .legal-footer {
+        font-size: 12px;
+        color: #adb5bd !important;
+        border-bottom: none;
+    }
+
+    .table-text-options {
+        font-size: 11px;
+        text-align: left;
+    }
+
+    .form-inline {
+        display: grid;
+    }
+
+}
+
+/* ----------- iPad Pro 12.9" ----------- */
+
+/* Portrait */
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+    .top-content .carousel-item {
+        height: 81vh;
+        min-height: 400px;
+    }
+
+    .header-bottom-size {
+        font-size: 9px;
+        margin: 0.5em;
+    }
+
+    .navbar-dark .navbar-nav {
+        font-size: 10px;
+        color: #fff;
+        text-transform: uppercase;
+    }
+
+    .navbar-brand {
+        width: 90px;
+        background: url(../img/logo_altima.svg) left center no-repeat;
+        border: 0;
+        text-indent: -99999px;
+    }
+
+    .carousel-item {
+        height: 39vh !important;
+        min-height: 400px;
+    }
+
+    .header-buscador-position {
+        position: absolute;
+        left: 27.5%;
+    }
+
+    .table-text-options {
+        font-size: 11px;
+        text-align: left;
+    }
+
+    .form-inline {
+        display: grid;
+    }
+
+    .from-filter-style {
+      position: relative;
+      left: 0%;
+  }
+
+  .form-inline .form-control{
+    width: 100%;
+    margin-left: 0%;
+}
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 1366px) and (max-device-width: 1366px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
+    .header-bottom-size {
+        font-size: 12px;
+        margin: 0.1em;
+    }
+
+    .navbar-dark .navbar-nav {
+        font-size: 13px !important;
+        color: #fff;
+        text-transform: uppercase;
+    }
+
+    .navbar-brand {
+        width: 112px;
+        background: url(../img/logo_altima.svg) left center no-repeat;
+        border: 0;
+        text-indent: -99999px;
+    }
+
+    .legal-footer {
+        font-size: 12px;
+        color: #adb5bd !important;
+        border-bottom: none;
+    }
+
+    .table-text-options {
+        font-size: 11px;
+        text-align: left;
+    }
+
+    .form-inline {
+        display: grid;
+    }
+
+    .from-filter-style {
+      position: relative;
+      left: 0%;
+  }
+
+  .form-inline .form-control{
+    width: 100%;
+    margin-left: 0%;
+}
+}

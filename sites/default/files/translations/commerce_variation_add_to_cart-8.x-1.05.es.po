@@ -1,0 +1,24 @@
+# Spanish translation of Commerce Variation Add to Cart (8.x-1.05)
+# Copyright (c) 2021 by the Spanish translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Commerce Variation Add to Cart (8.x-1.05)\n"
+"POT-Creation-Date: 2021-08-29 13:02+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Add to cart"
+msgstr "Agregar a la cesta"
+msgid "Attributes"
+msgstr "Atributos"
+msgid "Commerce (contrib)"
+msgstr "Commerce (contrib)"
+msgid "Attribute ID"
+msgstr "ID de atributo"
+msgid "Display the following attributes"
+msgstr "Mostrar los siguientes atributos"
