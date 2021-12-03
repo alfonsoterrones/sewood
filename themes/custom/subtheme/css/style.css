@@ -63,8 +63,8 @@ width:100%;
 transform:scale(1.25);
 }
 .field-content {/*Ancho y altura son modificables al requerimiento de cada uno*/
-width:300px;
-height:180px;
+width:324px;
+height:350px;
 overflow:hidden;
 }
 
@@ -141,12 +141,11 @@ div#main-wrapper {
 .jcarousel-wrapper.jcarousel-skin-tango.jcarousel-horizontal, .jcarousel-skin-tango .jcarousel li {
     height: 533px !important;
     width: 1256px;
-    box-shadow: 0 0 0px #9;
+    box-shadow: 0 0 0px 9px;
 }
 
 .jcarousel-container-horizontal li div .field-content {
-    width: 373px;
-    height: 286px;
+    width: 100%;
     overflow: hidden;
 }
 
@@ -171,7 +170,7 @@ nav#tbm-menu-principal {
 @media (max-width: 1000px) {
   .jcarousel-wrapper.jcarousel-skin-tango {
       width: 422px !important;
-  }	
+  }
   .navbar-brand {
       width: 121px;
   }
