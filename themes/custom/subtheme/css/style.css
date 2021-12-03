@@ -62,6 +62,18 @@ width:100%;
 -o-transform:scale(1.25);
 transform:scale(1.25);
 }
+
+.owl-item .esconder-contenido {
+-webkit-transition:all .6s ease; /* Safari y Chrome */
+-moz-transition:all .6s ease; /* Firefox */
+-o-transition:all .6s ease; /* IE 9 */
+-ms-transition:all .6s ease; /* Opera */
+opacity: 0;
+}
+.owl-item:hover .esconder-contenido {
+opacity: 1;
+}
+
 .field-content {/*Ancho y altura son modificables al requerimiento de cada uno*/
 width:324px;
 height:350px;
