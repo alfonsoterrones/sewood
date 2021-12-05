@@ -75,7 +75,7 @@ opacity: 1;
 }
 
 .field-content {/*Ancho y altura son modificables al requerimiento de cada uno*/
-width:324px;
+width:100½;
 height:350px;
 overflow:hidden;
 }
@@ -188,3 +188,34 @@ nav#tbm-menu-principal {
   }
 }
 
+.views-field.views-field-nothing.esconder-contenido {
+    background-color: white;
+}
+.esconder-contenido a {
+    color: black;
+    text-decoration: auto;
+    font-weight: 700;
+}
+.esconder-contenido li {
+    list-style-type: none;
+    padding-top: 18px;
+}
+
+h1#titulo-bloque-custom,
+h2#descripcion-bloque-custom
+{
+    text-align: center;
+}
+
+@media (max-width: 1000px) {
+  .jcarousel-wrapper.jcarousel-skin-tango {
+      width: 422px !important;
+  }
+  .navbar-brand {
+      width: 121px;
+  }
+  .owl-item .esconder-contenido {
+      opacity: 1;
+  }
+
+}

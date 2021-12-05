@@ -1,0 +1,11 @@
+name: 'Nuevo Bloque'
+type: module
+description: 'Nuevo bloque'
+package: Example alfonso
+core_version_requirement: 8.x
+dependencies:
+
+# Information added by Drupal.org packaging script on 2021-10-07
+version: '1.0'
+project: 'examples'
+datestamp: 1638373312
