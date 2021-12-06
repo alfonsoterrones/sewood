@@ -71,8 +71,8 @@ class FrontAppsBlock extends BlockBase implements BlockPluginInterface
     $this->configuration['descripcion'] = $form_state->getValue('forcontu_blocks_descripcion');
   }
 
-  protected function blockAccess(AccountInterface $account)
-  {
-    return AccessResult::allowedIfHasPermission($account, 'access highlighted content block');
-  }
+  //protected function blockAccess(AccountInterface $account)
+  //{
+    //return AccessResult::allowedIfHasPermission($account, 'access highlighted content block');
+  //}
 }
