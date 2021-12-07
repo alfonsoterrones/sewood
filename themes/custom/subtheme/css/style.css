@@ -215,10 +215,16 @@ h2#descripcion-bloque-custom
       width: 422px !important;
   }
   .navbar-brand {
-      width: 121px;
+    width: 88px;
+    position: relative;
+    bottom: 9px;
   }
   .owl-item .esconder-contenido {
       opacity: 1;
   }
+}
 
+button.navbar-toggler.navbar-toggler-right.collapsed {
+    position: relative;
+    bottom: 19px;
 }
