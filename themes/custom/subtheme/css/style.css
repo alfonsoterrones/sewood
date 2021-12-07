@@ -2,14 +2,12 @@
     width: 8%
 }
 
-.navbar-brand {
-    /* width: 28%; */
-    width: 162px;
-    /* padding-left: 86px; */
-}
+  .navbar-brand {
+      width: 110px;
+  }
 
 nav#navbar-main {
-    height: 104px;
+    height: 68px;
 }
 header#header {
     position: fixed;
@@ -183,9 +181,14 @@ nav#tbm-menu-principal {
   .jcarousel-wrapper.jcarousel-skin-tango {
       width: 422px !important;
   }
-  .navbar-brand {
-      width: 121px;
-  }
+.navbar-brand {
+    width: 68px;
+}
+}
+
+/*Eliminamos el texto de la portada que dice "Aún no se ha creado ningun contenido de página"*/
+.view.view-frontpage.view-id-frontpage.view-display-id-page_1.js-view-dom-id-d0f1c7cfb6b2fc085230a5a9fb9e7e006b7c8181e0f68afc27831f13e5c5fe76 {
+    display: none;
 }
 
 .views-field.views-field-nothing.esconder-contenido {
